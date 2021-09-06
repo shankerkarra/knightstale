@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace knightstale.Models
 {
-  public class Knights
+  public class Knight
   {
     public int id { get; set; }
     public int castleid { get; set; }
